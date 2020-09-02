@@ -1,0 +1,1 @@
+# vscode-wakatime-install
