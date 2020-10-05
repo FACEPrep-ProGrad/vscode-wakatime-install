@@ -10,7 +10,7 @@ Metrics, insights, and time tracking automatically generated from your programmi
 
 ## Installation
 
-1. Visit https://wakatime.com and create a account using GitHub account. Then add username in profile tab [add username](https://wakatime.com/settings/profile)
+1. Visit https://wakatime.com and create a account using GitHub account. Then [add username](https://wakatime.com/settings/profile) in profile tab 
 
 2. Press `F1` or `⌘ + Shift + P` and type `install`. Pick `Extensions: Install Extension`.
 
