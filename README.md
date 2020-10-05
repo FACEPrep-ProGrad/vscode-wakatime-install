@@ -1,4 +1,4 @@
-![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
+![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
 # WakaTime for Visual Studio Code
 
